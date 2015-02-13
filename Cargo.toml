@@ -1,0 +1,9 @@
+[package]
+
+name = "sunrpc"
+version = "0.0.1"
+authors = ["Prudhvi Krishna Surapaneni <me@prudhvi.net>"]
+
+[dependencies.sunrpc-sys]
+path = "sunrpc-sys"
+version = "0.0.1"

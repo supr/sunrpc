@@ -1,0 +1,11 @@
+[package]
+name = "sunrpc-sys"
+version = "0.0.1"
+authors = ["Prudhvi Krishna Surapaneni <me@prudhvi.net>"]
+license = "BSD"
+repository = "https://github.com/supr/sunrpc"
+description = "Native bindings to the sunrpc library"
+
+[lib]
+name = "sunrpc-sys"
+path = "lib.rs"
